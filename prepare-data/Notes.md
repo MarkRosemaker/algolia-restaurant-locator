@@ -1,0 +1,2 @@
+- Usually, we would write **tests and ideally follow TTD**. Since this is just a script, successful execution is our test.
+- The script ends execution at the slightest unexpected input (e.g. additional fields, unexpected enum values), allowing us to note this and tweak the script. This has the advantage that we **use all data** given to us to the fullest extend.
