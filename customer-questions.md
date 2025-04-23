@@ -82,7 +82,7 @@ Hi Leo,
 
 Happy to know that you’re considering Algolia for your website! It’s a great choice, and we’ve made it developer-friendly to keep things smooth.
 
-For a basic integration, it’s pretty straightforward. In fact, it is possible to create an Algolia interface in just two minutes. 
+For a basic integration, it’s pretty straightforward. In fact, it is possible to create an initial Algolia interface in just two minutes. 
 
 Here’s the high-level process:
 
